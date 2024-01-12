@@ -190,9 +190,6 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
-  .c img {
-    margin-top: 4px;
-  }
 }
 @media (max-width: 505px) {
   #z {
@@ -201,18 +198,11 @@ body {
   #z1 {
     font-size: 12px;
   }
-  .c img {
-    margin-top: 4px;
-  }
+
   #z2 {
     font-size: 44px;
   }
   #z3 {
     font-size: 13px;
-  }
-}
-@media (max-width: 371px) {
-  .c img {
-    margin-top: 104px;
   }
 }
