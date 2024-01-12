@@ -52,7 +52,6 @@ body {
   }
 }
 .b {
-  height: 376px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -79,6 +78,7 @@ body {
       font-weight: 400;
       line-height: 28px; /* 175% */
       margin-top: 16px;
+      margin-bottom: 96px;
     }
   }
 }
